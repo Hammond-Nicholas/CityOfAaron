@@ -7,7 +7,7 @@ package cityofaaron;
 
 /**
  *
- * @author artieman1
+ * @author ShaneArtman
  */
 public class CityOfAaron {
 
