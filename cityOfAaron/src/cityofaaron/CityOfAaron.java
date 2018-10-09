@@ -1,7 +1,7 @@
 /*
  * The main() class file for the cityOfAaron project
  * CIT-260
- * Spring 2018
+ * Fall 2018
  *  Team members: Shane Artman, Nick Hammond, Jonathan Unga
  */
 package cityofaaron;
