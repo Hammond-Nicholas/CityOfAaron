@@ -1,14 +1,14 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor. 
- * Test 1
+ * The main() class file for the cityOfAaron project
+ * CIT-260
+ * Spring 2018
+ *  Team members: Shane Artman, Nick Hammond, Jonathan Unga
  */
 package cityofaaron;
 
 /**
  *
- * @author nrham
+ * @author ShaneArtman
  */
 public class CityOfAaron {
 
